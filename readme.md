@@ -6,4 +6,4 @@ Seja bem-vindo à wiki do Hazuki.
 ## ・Contato
 > 📧 Email: bugadogc.yt@gmail.com
 
-> ⬜ Discord: https://discord.gg/gKDMqzG
+> ⬜ Servidor de Suporte (Discord): https://discord.gg/gKDMqzG
